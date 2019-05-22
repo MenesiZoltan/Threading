@@ -1,0 +1,7 @@
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\Threading\obj\Debug\Threading.pdb

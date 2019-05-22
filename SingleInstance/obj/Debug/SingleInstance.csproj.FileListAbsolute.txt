@@ -1,0 +1,7 @@
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\obj\Debug\SingleInstance.csprojAssemblyReference.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\obj\Debug\SingleInstance.csproj.CoreCompileInputs.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\bin\Debug\SingleInstance.exe.config
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\bin\Debug\SingleInstance.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\bin\Debug\SingleInstance.pdb
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\obj\Debug\SingleInstance.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\SingleInstance\obj\Debug\SingleInstance.pdb
