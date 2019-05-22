@@ -1,0 +1,7 @@
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csprojAssemblyReference.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+C:\Users\Ménesi Zoltán\source\repos\dotNetCodes\SI3\Threading\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
